@@ -20,6 +20,6 @@
   
 9. <https://morango-tango.github.io/Atividade-9/>
 
-10. <
+10. <https://morango-tango.github.io/Atividade-10/>
 
-11. <
+11. <https://morango-tango.github.io/Atividade-11/>
