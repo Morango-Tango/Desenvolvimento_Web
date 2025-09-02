@@ -14,4 +14,9 @@
 
 6. <https://morango-tango.github.io/Atividade-6/>
 
+7. <https://morango-tango.github.io/Atividade-7/>
+
+8. <https://morango-tango.github.io/Atividade-8/>
+  
 9. <https://morango-tango.github.io/Atividade-9/>
+
