@@ -28,3 +28,7 @@ Miguel Ângelo Lima de Sousa - S4
 11. <https://morango-tango.github.io/Atividade-11/>
 
 12. <https://morango-tango.github.io/Atividade-12/>
+
+13. <https://morango-tango.github.io/Atividade-13/>
+
+14. <https://morango-tango.github.io/Atividade-14/>
